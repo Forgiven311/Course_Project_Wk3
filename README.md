@@ -14,7 +14,6 @@ Human Activity Recognition Using Smartphones dataset.
 
 # Execution and files
 
-The Raw Data Set has been stored in “UCI HAR Dataset” folder.
 
 The CodeBook.md describes the variables, the data, and the work that has been performed to clean up the data.
 
