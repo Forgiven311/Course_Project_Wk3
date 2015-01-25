@@ -14,10 +14,9 @@ Human Activity Recognition Using Smartphones dataset.
 
 # List of Files in the Repository
 
+CodeBook.md -  Describes the variables, the data, and the work that has been performed to clean up the data.
 
-The CodeBook.md describes the variables, the data, and the work that has been performed to clean up the data.
+run_analysis.R  -  The script with compiled code that has been used for this work. 
 
-The run_analysis.R is the script that has been used for this work. 
-
-The result of the executing the above script is that a "TidyData.txt" file will be created, that stores the data (mean and standard deviation of each measurement per activity & subject) for later analysis.
+TidyData.txt - The clean dataset file that will be created when the run_analysis is executed. The data in this file includes means and standard deviations extracted from the activity & subject variables of the dataset.
 
