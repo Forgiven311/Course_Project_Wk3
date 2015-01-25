@@ -12,7 +12,7 @@ This project demonstrates skills in the collection and cleaning of data sets.
 
 Human Activity Recognition Using Smartphones dataset.
 
-# Execution and files
+# List of Files in the Repository
 
 
 The CodeBook.md describes the variables, the data, and the work that has been performed to clean up the data.
