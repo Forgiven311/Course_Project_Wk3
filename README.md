@@ -10,7 +10,8 @@ This project demonstrates skills in the collection and cleaning of data sets.
  
 # Data Set Used
 
-Human Activity Recognition Using Smartphones dataset.
+Human Activity Recognition Using Smartphones dataset from https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip 
+
 
 # List of Files in the Repository
 
